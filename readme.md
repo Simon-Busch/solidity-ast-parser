@@ -1,6 +1,7 @@
 # Solidity AST Parser and Terminal UI Viewer
 
-Welcome to the Solidity AST Parser and Terminal UI Viewer project! This tool allows you to parse Solidity contract files, extract detailed information from their Abstract Syntax Trees (AST), and interactively explore the contracts' structure and components via a terminal-based user interface.
+Solidity allows you to parse Solidity contract files, extract detailed information from their Abstract Syntax Trees (AST), and interactively explore the contracts' structure and components via a terminal-based user interface.
+
 
 ## See in action
 
